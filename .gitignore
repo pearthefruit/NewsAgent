@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Generated reports - contains analysis outputs
+reports/
+
+# Saved articles - contains scraped content
+saved_articles/
+
+# Sources file - may contain personal RSS feeds
+sources.xlsx
+
+# Corrupted/backup files
+*.corrupted
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
